@@ -10,7 +10,7 @@ This project was started in a game jam competition in June 2016, since then the 
 
 ## Installation
 
-You only need to install the [Unity Engine](unity3d.com) and open the project.
+You only need to install the [Unity Engine](unity3d.com), open the project and open the Level1 scene.
 
 ## Contributors
 
